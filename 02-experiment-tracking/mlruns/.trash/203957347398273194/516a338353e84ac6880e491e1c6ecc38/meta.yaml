@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/203957347398273194/516a338353e84ac6880e491e1c6ecc38/artifacts
+deleted_time: 1715728441196
+end_time: 1715727772925
+entry_point_name: ''
+experiment_id: '203957347398273194'
+lifecycle_stage: deleted
+run_id: 516a338353e84ac6880e491e1c6ecc38
+run_name: colorful-lynx-178
+run_uuid: 516a338353e84ac6880e491e1c6ecc38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715727770691
+status: 3
+tags: []
+user_id: ashishthomaschempolil

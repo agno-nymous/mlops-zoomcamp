@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/251390377604305518/bec108ba76174ec3a058a9e42f676488/artifacts
+deleted_time: 1715727736470
+end_time: 1715727575859
+entry_point_name: ''
+experiment_id: '251390377604305518'
+lifecycle_stage: deleted
+run_id: bec108ba76174ec3a058a9e42f676488
+run_name: aged-gnat-303
+run_uuid: bec108ba76174ec3a058a9e42f676488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715727574005
+status: 3
+tags: []
+user_id: ashishthomaschempolil

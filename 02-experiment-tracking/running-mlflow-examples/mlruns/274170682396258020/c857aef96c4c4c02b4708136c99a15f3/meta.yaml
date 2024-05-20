@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashishthomaschempolil/codefiles/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/274170682396258020/c857aef96c4c4c02b4708136c99a15f3/artifacts
+end_time: 1715726348396
+entry_point_name: ''
+experiment_id: '274170682396258020'
+lifecycle_stage: active
+run_id: c857aef96c4c4c02b4708136c99a15f3
+run_name: silent-kit-880
+run_uuid: c857aef96c4c4c02b4708136c99a15f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715726346091
+status: 3
+tags: []
+user_id: ashishthomaschempolil

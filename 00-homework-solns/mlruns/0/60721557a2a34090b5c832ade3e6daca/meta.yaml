@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashishthomaschempolil/codefiles/mlops-zoomcamp/00-homework-solns/mlruns/0/60721557a2a34090b5c832ade3e6daca/artifacts
+end_time: 1716244035580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60721557a2a34090b5c832ade3e6daca
+run_name: victorious-hare-819
+run_uuid: 60721557a2a34090b5c832ade3e6daca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716244024995
+status: 3
+tags: []
+user_id: ashishthomaschempolil

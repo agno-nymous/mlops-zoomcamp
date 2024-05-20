@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/810695188403491797/17e6706b33a84162a92098aa3ff914ba/artifacts
+end_time: 1715728485149
+entry_point_name: ''
+experiment_id: '810695188403491797'
+lifecycle_stage: active
+run_id: 17e6706b33a84162a92098aa3ff914ba
+run_name: learned-ram-431
+run_uuid: 17e6706b33a84162a92098aa3ff914ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715728483355
+status: 3
+tags: []
+user_id: ashishthomaschempolil

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ashishthomaschempolil/codefiles/mlops-zoomcamp/00-homework-solns/mlruns/0/28729169c1cd4d7db9785357e039e239/artifacts
+end_time: 1716244217099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28729169c1cd4d7db9785357e039e239
+run_name: bald-shrike-461
+run_uuid: 28729169c1cd4d7db9785357e039e239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716244207624
+status: 3
+tags: []
+user_id: ashishthomaschempolil

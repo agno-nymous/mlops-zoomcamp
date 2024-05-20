@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/251390377604305518/ea266cf4b9a14cd09a0ec82febbd4cb3/artifacts
+deleted_time: 1715727736470
+end_time: 1715726633738
+entry_point_name: ''
+experiment_id: '251390377604305518'
+lifecycle_stage: deleted
+run_id: ea266cf4b9a14cd09a0ec82febbd4cb3
+run_name: defiant-deer-486
+run_uuid: ea266cf4b9a14cd09a0ec82febbd4cb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715726631437
+status: 3
+tags: []
+user_id: ashishthomaschempolil
