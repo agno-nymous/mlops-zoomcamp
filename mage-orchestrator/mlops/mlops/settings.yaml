@@ -1,0 +1,7 @@
+projects:
+  homework-03:
+    path: homework-03
+  unit_0_setup: {}
+  unit_1_data_preparation: {}
+  unit_2_training: {}
+  unit_3_observability: {}
